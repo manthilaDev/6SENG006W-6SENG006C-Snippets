@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="GradleMigrationSettings" migrationVersion="1" />
+  <component name="GradleSettings">
+    <option name="linkedExternalProjectsSettings">
+      <GradleProjectSettings>
+        <option name="distributionType" value="DEFAULT_WRAPPED" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="gradleHome" value="C:/Gradle/gradle-7.5.1" />
+        <option name="gradleJvm" value="#JAVA_HOME" />
+        <option name="modules">
+          <set>
+            <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/LEC001A" />
+            <option value="$PROJECT_DIR$/LEC002A" />
+            <option value="$PROJECT_DIR$/LEC002B" />
+            <option value="$PROJECT_DIR$/LEC003A" />
+            <option value="$PROJECT_DIR$/TUT001A" />
+            <option value="$PROJECT_DIR$/TUT001B" />
+            <option value="$PROJECT_DIR$/TUT002A" />
+            <option value="$PROJECT_DIR$/TUT002B" />
+            <option value="$PROJECT_DIR$/TUT003A" />
+            <option value="$PROJECT_DIR$/TUT003B" />
+          </set>
+        </option>
+      </GradleProjectSettings>
+    </option>
+  </component>
+</project>
