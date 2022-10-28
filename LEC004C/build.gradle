@@ -9,12 +9,12 @@ plugins{
 }
 
 application {
-    mainClass = 'tut_2_b.Main'
+    mainClass = 'lec_4_c.Main'
 }
 
 jar {
     manifest {
-        attributes('Main-Class' : 'tut_2_b.Main')
+        attributes('Main-Class' : 'lec_4_c.Main')
     }
 }
 
