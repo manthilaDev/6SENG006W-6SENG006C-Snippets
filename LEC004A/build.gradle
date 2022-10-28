@@ -8,20 +8,19 @@ plugins{
     id 'java'
 }
 
-jar {
-    manifest {
-        attributes('Main-Class' : 'tut_b.Clock')
-    }
-}
-
 compileJava {
     sourceCompatibility = '1.8'
     targetCompatibility = '1.8'
     options.fork =true;
+    //Used to Set JDK Version to JAVA SDK 8
     options.forkOptions.executable = 'C:/Program Files/Java/jdk1.8.0_351/bin/javac.exe'
 }
-
-task runApp(type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    mainClass = 'tut_b.Main'
-}
+//application {
+//    mainClass = 'lec_4_a.Main'
+//}
+//
+//jar {
+//    manifest {
+//        attributes('Main-Class' : 'lec_4_a.Main')
+//    }
+//}

@@ -5,23 +5,25 @@
  * Learn more about Gradle by exploring our samples at https://docs.gradle.org/7.5.1/samples
  */
 plugins{
-    id 'java'
+    id 'application'
+}
+
+application {
+    mainClass = 'lec_4_b.RaceTest'
 }
 
 jar {
     manifest {
-        attributes('Main-Class' : 'tut_b.Clock')
+        attributes('Main-Class' : 'lec_4_b.RaceTest')
     }
 }
 
 compileJava {
     sourceCompatibility = '1.8'
     targetCompatibility = '1.8'
-    options.fork =true;
-    options.forkOptions.executable = 'C:/Program Files/Java/jdk1.8.0_351/bin/javac.exe'
 }
 
-task runApp(type: JavaExec) {
-    classpath = sourceSets.main.runtimeClasspath
-    mainClass = 'tut_b.Main'
-}
+//task runApp(type: JavaExec) {
+//    classpath = sourceSets.main.runtimeClasspath
+//    mainClass = 'lec_a.App'
+//}
