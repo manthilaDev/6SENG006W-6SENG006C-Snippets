@@ -10,4 +10,4 @@ All the material found here were produced as part of the learning process and pr
 *If you are interested in the module content and offerings please check Openly available material provided by University of Westminster.* 
 ___
 
-> For Hosted Version of the Doucments [Click Here](https://ephemeral-licorice-aeb47e.netlify.app/lecture%20-3/)
+> For Hosted Version of the Doucments [Click Here](https://ephemeral-licorice-aeb47e.netlify.app)
