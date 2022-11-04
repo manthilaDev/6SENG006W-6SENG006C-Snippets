@@ -1,4 +1,4 @@
-Reading List [[https://rl.talis.com/3/westminster/lists/592011BB-297A-EA8D-13F9-5EB6B4B1F88F.html?lang=en]]
+Reading List [Click Here](https://rl.talis.com/3/westminster/lists/592011BB-297A-EA8D-13F9-5EB6B4B1F88F.html?lang=en)
 
 ## Component 
  - CWk
@@ -17,7 +17,7 @@ Finite State Process
 
 ### Tools used 
 
-- LTSA [[https://www.doc.ic.ac.uk/ltsa/]] , [[https://www.doc.ic.ac.uk/ltsa/]]
+- LTSA [Click Here](https://www.doc.ic.ac.uk/ltsa/) , [Click Here](https://www.doc.ic.ac.uk/ltsa/)
 
 Follow of  the Sessions
 
