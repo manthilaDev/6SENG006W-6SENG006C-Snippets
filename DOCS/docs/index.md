@@ -1,17 +1,11 @@
-# Welcome to MkDocs
+# Concurrent Programming 6SENG006W-6SENG006C
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+This Repo contains Code Snippets and Notes Produced while actively reading for the subject.
+___
+**NOTE**
 
-## Commands
+This is by no means an actual representation of the content provided with module.
+All the material found here were produced as part of the learning process and prone to error.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+*If you are interested in the module content and offerings please check Openly available material provided by University of Westminster.* 
+___
