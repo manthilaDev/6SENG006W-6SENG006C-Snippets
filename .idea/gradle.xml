@@ -18,12 +18,15 @@
             <option value="$PROJECT_DIR$/LEC004A" />
             <option value="$PROJECT_DIR$/LEC004B" />
             <option value="$PROJECT_DIR$/LEC004C" />
+            <option value="$PROJECT_DIR$/LEC005A" />
+            <option value="$PROJECT_DIR$/LEC005B" />
             <option value="$PROJECT_DIR$/TUT001A" />
             <option value="$PROJECT_DIR$/TUT001B" />
             <option value="$PROJECT_DIR$/TUT002A" />
             <option value="$PROJECT_DIR$/TUT002B" />
             <option value="$PROJECT_DIR$/TUT003A" />
             <option value="$PROJECT_DIR$/TUT003B" />
+            <option value="$PROJECT_DIR$/TUT004A" />
           </set>
         </option>
       </GradleProjectSettings>
