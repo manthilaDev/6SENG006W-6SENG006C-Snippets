@@ -10,4 +10,7 @@ All the material found here were produced as part of the learning process and pr
 *If you are interested in the module content and offerings please check Openly available material provided by University of Westminster.* 
 ___
 
-> For Hosted Version of the Doucments [Click Here](https://ephemeral-licorice-aeb47e.netlify.app)
+``Inactive``
+> 2023-02-20 marks the last update for the content. From here onward this repository will be archived. 
+> I cannot guarantee the relevance of the subject maters further down road.
+> If you need more update to date information use the module code ``6SENG006W-6SENG006C``
