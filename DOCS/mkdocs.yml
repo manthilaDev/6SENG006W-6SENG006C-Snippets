@@ -1,3 +1,6 @@
 site_name: 6SENG006W Concurrency Programming
 theme :
   name: material
+plugins:
+  - git-snippet:
+        base_path: docs
