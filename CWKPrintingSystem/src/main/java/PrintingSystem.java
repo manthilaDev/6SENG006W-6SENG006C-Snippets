@@ -29,6 +29,17 @@ public class PrintingSystem {
         tonerTechnician.start();
         paperTechnician.start();
 
+        try{
+            studentOne.join();
+            studentTwo.join();
+            studentThree.join();
+            studentFour.join();
+            tonerTechnician.join();
+            paperTechnician.join();
+        }catch (InterruptedException ex){
+            System.out.println("Thread Interruption Occurred !");
+        }
+
 
         while(true){
             /*Checking if all threads that belongs to Thread Groups are finished working*/
